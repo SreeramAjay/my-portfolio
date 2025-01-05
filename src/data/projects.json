@@ -4,13 +4,15 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["JavaScript", "React", "Express", "Node"],
-    "source": "https://github.com/SreeramAjay/JobPortal"
+    "source": "https://github.com/SreeramAjay/JobPortal",
+    "demo": "https://jobportal-app.netlify.app/"
   },
   {
     "title": "Result Management System",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
-    "source": "https://github.com/SreeramAjay/Result-Managment-System"
+    "source": "https://github.com/SreeramAjay/Result-Managment-System",
+    "demo": "https://jobportal-app.netlify.app/"
   }
 ]
